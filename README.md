@@ -12,3 +12,13 @@ Installation
 ```
 composer require p3k\reserved-usernames
 ```
+
+Usage
+-----
+
+```php
+$username = 'login';
+if(p3k\is_reserved_username($username)) {
+  // Throw an error
+}
+```
