@@ -10,7 +10,7 @@ Installation
 ------------
 
 ```
-composer require p3k\reserved-usernames
+composer require p3k/reserved-usernames
 ```
 
 Usage
