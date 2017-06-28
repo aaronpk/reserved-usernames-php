@@ -5,7 +5,7 @@ $php = '<?php
 namespace p3k;
 
 function is_reserved_username($username) {
-  return in_array($username, '.json_encode($usernames).')
+  return in_array($username, '.json_encode($usernames).');
 }
 ';
 
