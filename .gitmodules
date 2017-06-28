@@ -1,0 +1,3 @@
+[submodule "reserved-usernames"]
+	path = reserved-usernames
+	url = https://github.com/shouldbee/reserved-usernames.git
