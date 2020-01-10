@@ -1,7 +1,7 @@
 {
   "name": "p3k/reserved-usernames",
   "type": "library",
-  "keywords": ["blacklist","reserved","username"],
+  "keywords": ["reserved","username"],
   "license": "MIT",
   "authors" : [
     {
